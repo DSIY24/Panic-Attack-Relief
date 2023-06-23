@@ -1,0 +1,277 @@
+h1,h5,h3 {
+   
+}
+
+*{
+padding: 0;
+margin: 0;
+}
+body {
+    background: lightcyan;
+}
+header {
+      width: 100%;
+}
+.bannerid {
+    background-color:rgb(2, 105, 71);
+    height: 20px;
+    position: fixed;
+    width: 100%;
+    z-index: 3;
+    
+}
+.bannerid h5 {
+     text-align: left;
+     position: relative;
+     top:2.5px;
+     color:beige;
+}
+.headline {
+    background-color: rgb(7, 87, 87);
+    position: relative;
+    top: 20px;
+    height: 50px;
+    
+    
+
+}
+.headline h1 {
+    text-align: center;
+    position: relative;
+    top: 16%;
+    color:antiquewhite;
+    font-weight: 1000;
+    text-transform: uppercase;
+   
+    
+}
+.banner {
+    background-color: rgb(6, 179, 121);
+    position: relative;
+    top: 20px;
+}
+.banner h3 {
+    text-align: center;
+    font-weight: 100;
+    letter-spacing: 20px;
+    border-bottom: 3px solid black;
+}
+article {
+    position: relative;  
+}
+.audiosection figcaption {
+    text-align: right;
+    position: relative;
+    top:65px;
+    left: 290px;
+    text-transform: 
+}
+.gifsection figcaption {
+
+    display: inline-block;
+    position: relative;
+    top: 270px;
+    left: 765px;
+}
+p {
+    padding: 5px 15px;
+    font-size: 20px;
+    word-spacing: 4px;
+    line-height: 28px;
+    
+
+}
+li {
+    margin-left: 60px;
+    font-size: 18px;
+    line-height: 50px;
+   
+}
+.heart-pain {
+    float: right;
+    position: absolute;
+   
+    left: 625px;
+    top: 90px;
+    
+}
+h2 {
+    padding: 20px 10px;
+    font-size:40px;
+}
+.container {
+    background-color: beige;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1000px;
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+
+}
+span {
+    font-weight: 700;
+    color: rgb(0, 99, 5);
+   
+}
+a {
+    color:rgb(0, 86, 86);
+}
+a:hover {
+    color: rgb(0, 159, 106);
+}
+.breathing-gif {
+    position: relative;
+    float: right;
+    margin-left: 25px;
+    margin-bottom: 15px;
+    border: 5px solid  rgb(7, 87, 87);
+    border-radius: 7%;  
+    margin-right: 10px;
+}
+#Sudden {
+     
+}
+#Sudden p{
+    padding-right: 75px;
+}
+.audioplayer {
+    position: relative;
+    float: right;
+    margin-right: 10px;
+}
+.audiosection {
+    position: relative;
+    top: 24px;
+    left: 0px:
+}
+.exercisevideo {
+    width: 850px;
+   
+}
+.videoarea {
+    display: grid;
+    place-items: center;
+    padding: 25px;
+}
+#Long-term {
+    padding-right: 75px;
+}
+.quote {
+    
+    background-color:hsl(36, 100%, 90%);
+    height: 150px;
+    padding: 30px;
+    border: 3px solid hsl(36, 39%, 26%);
+    border-radius: 15%;
+    margin-left: 74px;
+   
+    
+}
+.quote figcaption {
+    font-size: 11px;
+    position: relative;
+    left: 0px;
+    top: 30px;
+
+}
+.PictureofDoctor {
+        height: 150px;
+        float: left;
+        margin-right: 15px;
+}
+#Preparation {
+    padding-right: 75px;
+}
+.store {
+    margin-top: 100px;
+    
+    width: 900px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 100px;
+    
+}
+.heartratemonitor {
+    position: relative;
+    bottom: 20px;
+     padding-right: 70px;  
+     padding-top: 50px; 
+     padding-left: 70px;
+     margin-left:25px;
+}
+.ekgsensor {
+    padding-top: 50px;
+    float:right;
+    margin-right: 50px;
+}
+.heartratemonitor:hover {
+    background-color:aliceblue;
+    opacity: 50%;
+}
+.ekgsensor:hover {
+     background-color: aliceblue;
+     opacity: 50%;
+
+}
+footer {
+    background-color:  rgb(7, 87, 87);
+    height: 100px;
+    border-top: 3px solid black;
+}
+
+.linkedinSection {
+    position: relative;
+    top: 30px;
+    left: 20px;
+    padding: 5px
+}
+.linkedinSection h4 {
+    margin-top: 6px;
+    color: aliceblue;
+}
+
+.linkedinlogo {
+    position: relative;
+    display: inline-block;
+    float: left;   
+    margin-right: 10px;
+}
+.sources h4 {
+    position: relative;
+    left: 400px;
+    bottom: 30px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.listOne {
+    position: relative;
+    left: 400px;
+    bottom: 25px;
+    padding: 0px;
+    margin: 0px;
+}
+.listTwo {
+    position: relative;
+    bottom: 82px;
+    left: 550px;
+}
+.sources p {
+    padding: 0px;
+    margin: 0px;
+    color: aliceblue;
+    font-size: 15px;
+
+}
+.sources li{
+    line-height: 0px;
+    font-size: 15px;
+}
+
+
+
+
+
+
+
+
